@@ -26,6 +26,14 @@
 
 
 
+https://github.com/user-attachments/assets/d8997fe9-0f6b-48e3-8448-7fd58f40f52d
+
+
+
+
+
+
+
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garenkevork-rgb/the-cry-of-the-syrian-unconscious-nlp/blob/main/the%20cry%20of%20the%20syrian%20unconscious.ipynb)
